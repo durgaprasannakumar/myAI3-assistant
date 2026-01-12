@@ -134,7 +134,7 @@ function ChartTooltipContent({
   color,
   nameKey,
   labelKey,
-}}: ChartTooltipContentProps) {
+}}: ChartTooltipContentProps): React.ReactElement | null {
   const { config } = useChart()
 
   const tooltipLabel = React.useMemo(() => {
