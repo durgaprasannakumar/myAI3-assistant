@@ -33,7 +33,7 @@ export const DATE_AND_TIME = getDateAndTime();
 export const AI_NAME = "ProductSense AI";
 export const OWNER_NAME = "Durga Prasanna Kumar Melam";
 
-export const WELCOME_MESSAGE = "Hi — I’m ${AI_NAME}. Share a product idea, feature request, or user problem, and I’ll guide you through user segments, problem framing, tradeoffs, metrics, and risks like a Product Manager.";
+export const WELCOME_MESSAGE = "Hi there! I’m Product Sense AI. Share a product idea, feature request, or user problem, and I’ll guide you through user segments, problem framing, tradeoffs, metrics, and risks like a Product Manager.";
 
 export const CLEAR_CHAT_TEXT = "New";
 
